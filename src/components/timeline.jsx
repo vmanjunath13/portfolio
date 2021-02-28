@@ -17,6 +17,20 @@ export default class Timeline extends Component {
                 <div className="timeline-centered">
                 <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-8">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2>Intern at Pathloom INC, Chicago, IL, USA <span>Feb-May 2021</span></h2>
+                        <p>I joined Pathloom INC as Software Developer Intern.</p>
+                        <p><ul>
+                          <li>Currently I am working with team in building the Pathloom application using ReactJS, NodeJS, Java. I am learning lot of new things which will help in making my technical skills more strong.</li>
+                        </ul></p>
+                        </div>
+                    </div>
+                </article>
+				<article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                    <div className="timeline-entry-inner">
                       <div className="timeline-icon color-7">
                         <i className="icon-pen2" />
                       </div>
